@@ -19,7 +19,7 @@
 
 * {                               /* geldt voor alles */
   box-sizing: border-box;         /* zorg dat border meetelt bij de width en height van boxen */
-  margin: 0px;                    /* standaard marge 0 pixels */
+  margin: 2px;                    /* standaard marge 0 pixels */
 }
 
 html, body {                      /* geldt voor html en body */
@@ -106,7 +106,7 @@ nav li a {
 }
 
 nav li a:hover {
-  background-color: #aaaaaa;
+  background-color: #ff4545;
 }
 
 nav li a.active {
