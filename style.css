@@ -49,6 +49,8 @@ div {                             /* geldt voor div */
 header, footer {                  /* geldt voor header en footer */
   margin: 10px 0px;
   background-color: #b9e3ff;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:#ffffff
 }
 
 main {                       
