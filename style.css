@@ -98,11 +98,11 @@ nav ul {                        /* <ul> die child is van <nav> */
 }
 
 nav ul li {                     /* <li> die child is van <ul> die op zijn beurt child is van <nav> */
-  float: left;
+  float: left; 
 }
 
 nav li a {
-  display: block;
+  display:block;
   color:#b9e3ff
   text-align: center;
   padding: 18px 20px;
