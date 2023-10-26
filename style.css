@@ -18,12 +18,14 @@
 /* Basisinstellingen voor alle pagina's, alleen aanpassen als je pro wilt worden */
 
 * {                               /* geldt voor alles */
-  box-sizing: border-box;         /* zorg dat border meetelt bij de width en height van boxen */
-  margin: 2px;                    /* standaard marge 0 pixels */
+  box-sizing: border-box;   
+  border-radius: 12px;      /* zorg dat border meetelt bij de width en height van boxen */
+  margin: 2px;           
+         /* standaard marge 0 pixels */
 }
 
 html, body {                      /* geldt voor html en body */
-  background-color: #47b5ff;    /* achtergrondkleur lichtgrijs */
+  background-color: #b9e3ff;    /* achtergrondkleur lichtgrijs */
   color: #303030;               /* tekstkleur donkergrijs */
 }  
 
@@ -46,6 +48,7 @@ div {                             /* geldt voor div */
 
 header, footer {                  /* geldt voor header en footer */
   margin: 10px 0px;
+  background-color: #b9e3ff;
 }
 
 main {                       
@@ -90,7 +93,7 @@ nav ul {                        /* <ul> die child is van <nav> */
   list-style-type: none;
   margin: auto;
   padding: 0;
-  background-color: #dddddd;
+  background-color:#ffffff;
   overflow: hidden;
 }
 
@@ -107,11 +110,11 @@ nav li a {
 }
 
 nav li a:hover {
-  background-color: #ff4545;
+  background-color:#b9e3ff
 }
 
 nav li a.active {
-  background-color:rgb(227, 0, 0);
+  background-color:#b9e3ff
 }
 
 
