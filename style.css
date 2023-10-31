@@ -65,8 +65,9 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
 } 
 
 p {
-  margin: 10px 0px;
+  margin: 10px 525px;
   text-align: justify;            /* tekst links en rechts uitvullen */
+  border: 10px double #ffffff
 }
 
 img {
@@ -75,7 +76,7 @@ img {
 
 a {
   color: skyblue;
-  text-decoration: none;
+  text-decoration: none;;
 }
 
 a:hover {                         /* <a> als je er met de muis op staat */
