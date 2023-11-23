@@ -141,6 +141,11 @@ nav li a.active {
   width: 450px;
 }
 
+.item-tekst1 {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
 /************************* SUBPAGINA *************************/
 
 /* Indeling en opmaak voor subpagina */
