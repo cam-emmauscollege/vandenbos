@@ -151,6 +151,10 @@ nav li a.active {
   border-color:#b9e3ff;
   border-radius: 90px;
   border-style:solid;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:#b9e3ff;
+  font-size:xx-large;
+  text-align:center;
 
 }
 
