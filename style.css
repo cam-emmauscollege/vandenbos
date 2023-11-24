@@ -27,7 +27,7 @@
 html, body {                      /* geldt voor html en body */
   background-color: #b9e3ff;    /* achtergrondkleur lichtgrijs */
   color: #303030;              /* tekstkleur donkergrijs */
-  background-image: linear-gradient(to right, rgb(135, 245, 245), rgb(0, 65, 163))
+  background-image: linear-gradient(to right, rgb(169, 200, 255), rgb(0, 65, 163))
 }  
 
 div {                             /* geldt voor div */
