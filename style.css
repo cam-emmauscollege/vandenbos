@@ -148,6 +148,7 @@ nav li a.active {
   width: 275px;
   background-color:#ffffff;
   min-height:350px;
+  border-color:#b9e3ff;
 }
 
 .item-tekst2 {
@@ -157,6 +158,8 @@ nav li a.active {
   width: 275px;
   background-color:#ffffff;
   min-height:350px;
+  border-color:#b9e3ff;
+
 }
 
 .item-tekst3 {
@@ -165,15 +168,17 @@ width: 275px;
 margin-right: 400px;
 background-color:#ffffff;
 min-height:350px; 
+border-color:#b9e3ff;
 }
 
 .item-tekst4 {
   margin-right: 50px;
   margin-left: 130px;
   float: right;
-  width: 275px;
+  width: 275px; 
+  min-height:350px;  
   background-color:#ffffff;
-  min-height:350px;
+  border-color:#b9e3ff;
 }
 
 /************************* SUBPAGINA *************************/
