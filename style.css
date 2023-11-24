@@ -150,6 +150,7 @@ nav li a.active {
   min-height:350px;
   border-color:#b9e3ff;
   border-radius: 90px;
+  border-style:solid;
 }
 
 .item-tekst2 {
@@ -161,6 +162,7 @@ nav li a.active {
   min-height:350px;
   border-color:#b9e3ff;
   border-radius: 90px;
+  border-style:solid;
 
 }
 
@@ -172,6 +174,7 @@ background-color:#ffffff;
 min-height:350px; 
 border-color:#b9e3ff;
 border-radius: 90px;
+border-style:solid;
 }
 
 .item-tekst4 {
@@ -183,6 +186,7 @@ border-radius: 90px;
   background-color:#ffffff;
   border-color:#b9e3ff;
   border-radius: 90px;
+  border-style:solid;
 }
 
 /************************* SUBPAGINA *************************/
