@@ -147,6 +147,7 @@ nav li a.active {
   float: left;
   width: 275px;
   background-color:#ffffff;
+  min-height:350px;
 }
 
 .item-tekst2 {
@@ -155,6 +156,7 @@ nav li a.active {
   margin-right: 10px;
   width: 275px;
   background-color:#ffffff;
+  min-height:350px;
 }
 
 .item-tekst3 {
@@ -162,6 +164,7 @@ float: right;
 width: 275px; 
 margin-right: 400px;
 background-color:#ffffff;
+min-height:350px; 
 }
 
 .item-tekst4 {
@@ -170,6 +173,7 @@ background-color:#ffffff;
   float: right;
   width: 275px;
   background-color:#ffffff;
+  min-height:350px;
 }
 
 /************************* SUBPAGINA *************************/
