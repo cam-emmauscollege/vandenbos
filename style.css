@@ -27,7 +27,7 @@
 html, body {                      /* geldt voor html en body */
   background-color: #b9e3ff;    /* achtergrondkleur lichtgrijs */
   color: #303030;              /* tekstkleur donkergrijs */
-  background-image: linear-gradient(to right, rgb(177, 211, 255), rgb(0, 65, 163))
+  background-image: linear-gradient(to right, rgb(135, 245, 245), rgb(0, 65, 163))
 }  
 
 div {                             /* geldt voor div */
@@ -142,8 +142,30 @@ nav li a.active {
 }
 
 .item-tekst1 {
+  margin-right: 10px;
+  margin-left: 50px;
+  float: left;
+  width: 275px;
+}
+
+.item-tekst2 {
+  float: left;
   margin-left: 400px;
-  margin-right: 400px;
+  margin-right: 10px;
+  width: 275px;
+}
+
+.item-tekst3 {
+float: right;
+width: 275px; 
+margin-right: 400px;
+}
+
+.item-tekst4 {
+  margin-right: 50px;
+  margin-left: 130px;
+  float: right;
+  width: 275px;
 }
 
 /************************* SUBPAGINA *************************/
