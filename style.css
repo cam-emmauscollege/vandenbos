@@ -93,6 +93,9 @@ a:hover {                         /* <a> als je er met de muis op staat */
   font-size: 0.7em;
 }
 
+#hoofdtitel {
+  font-size: 65px;
+}
 /************************* NAVIGATIEBALK *************************/
 
 /* navigatiebalk voor alle pagina's */
