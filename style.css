@@ -73,6 +73,10 @@ p {
 
 img {
   margin: 10px 0px;
+  width:225px;
+  border-style: solid;
+  border-color:#b9e3ff
+  
 }
 
 a {
@@ -165,7 +169,7 @@ nav li a.active {
   width: 275px;
   background-color:#ffffff;
   min-height:350px;
-  border-color:#b9e3ff;
+  border-color:#ffb9b9;
   border-radius: 90px;
   border-style:solid;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -182,7 +186,7 @@ width: 275px;
 margin-right: 400px;
 background-color:#ffffff;
 min-height:350px; 
-border-color:#b9e3ff;
+border-color:rgb(255, 149, 0);
 border-radius: 90px;
 border-style:solid;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -199,8 +203,8 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   width: 275px; 
   min-height:350px;  
   background-color:#ffffff;
-  border-color:#b9e3ff;
-  border-radius: 90px;
+  border-color: #ff89f9;
+  border-radius: 90px; 
   border-style:solid;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color:#b9e3ff;
