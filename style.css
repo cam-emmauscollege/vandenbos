@@ -69,7 +69,7 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3 */
 p {
   margin: 10px 525px;
   text-align: justify;            /* tekst links en rechts uitvullen */
-  border: 10px double #d50b0b
+  border: 10px double #0e0bd5
 }
 
 img {
@@ -97,6 +97,7 @@ a:hover {                         /* <a> als je er met de muis op staat */
 
 .hoofdtitel {
   font-size: 65px;
+  text-align: center;
 }
 /************************* NAVIGATIEBALK *************************/
 
@@ -108,6 +109,8 @@ nav ul {                        /* <ul> die child is van <nav> */
   padding: 0;
   background-color:#ffffff;
   overflow: hidden;
+  width: fit-content;
+  margin: auto;
 
 }
 
@@ -152,10 +155,7 @@ nav li a.active {
 }
 
 .item-tekst1 {
-  margin-right: 10px;
-  margin-left: 50px;
   float: left;
-  width: 275px;
   background-color:#ffffff;
   min-height:350px;
   border-style:solid;
@@ -163,7 +163,11 @@ nav li a.active {
   color:#b9e3ff;
   font-size:xx-large;
   text-align:center;
-
+  width: fit-content;
+  margin: auto;
+  margin-right: 10px;
+  margin-left: 50px;
+  width: 275px;
 }
 
 
